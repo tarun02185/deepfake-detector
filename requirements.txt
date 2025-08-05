@@ -1,0 +1,21 @@
+# Core
+torch>=2.0.0
+torchvision
+timm
+
+# Data & plotting
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# Progress bar
+tqdm
+
+# Tracking
+mlflow
+
+# App
+streamlit
+
+
