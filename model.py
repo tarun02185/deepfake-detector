@@ -3,6 +3,7 @@ import torch
 import torch.nn as nn
 import timm
 
+
 class DeepfakeXception(nn.Module):
     def __init__(self):
         super().__init__()
