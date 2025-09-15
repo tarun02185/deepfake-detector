@@ -2,8 +2,6 @@
 
 This project is a deepfake image detection system built using a custom fine-tuned **Xception** model. It allows users to upload an image and get predictions via a Streamlit-based web interface.
 
-> **Note:** This project is a simplified and modified version of [ameencaslam/deepfake-detection-project-v4](https://github.com/ameencaslam/deepfake-detection-project-v4) for educational and demonstrative purposes.
-
 ---
 
 ## 🔍 Project Overview
